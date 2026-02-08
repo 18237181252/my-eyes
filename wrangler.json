@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "my-eyes",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d028e785-831f-4306-bb47-30534b52fc43",
+			"database_name": "my-eyes-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
